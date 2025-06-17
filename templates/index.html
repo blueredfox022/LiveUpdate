@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Donasi Live</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>⏳ Waktu Tersisa</h1>
+    <h2 id="countdown">Loading...</h2>
+
+    <h3>👥 Daftar Donatur</h3>
+    <ul id="donatur-list">
+      {% for d in donatur %}
+        <li class="{{ d.status_verifikasi }}">{{ d.username }} - {{ d.status_verifikasi }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <script>
+    const targetTime = "{{ target_time }}";
+  </script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

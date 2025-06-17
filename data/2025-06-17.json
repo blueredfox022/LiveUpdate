@@ -1,0 +1,146 @@
+{
+  "tanggal": "2025-06-17",
+  "waktu_mulai": "2025-06-17T14:49:38.436311",
+  "donatur": [
+     {
+      "user_id": 101,
+      "username": "@alpha",
+      "bukti_transfer": "static/bukti_transfer/bukti_101.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:45:00"
+    },
+    {
+      "user_id": 102,
+      "username": "@bravo",
+      "bukti_transfer": "static/bukti_transfer/bukti_102.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:46:00"
+    },
+    {
+      "user_id": 103,
+      "username": "@charlie",
+      "bukti_transfer": "static/bukti_transfer/bukti_103.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:47:00"
+    },
+    {
+      "user_id": 104,
+      "username": "@delta",
+      "bukti_transfer": "static/bukti_transfer/bukti_104.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:48:00"
+    },
+    {
+      "user_id": 105,
+      "username": "@echo",
+      "bukti_transfer": "static/bukti_transfer/bukti_105.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:49:00"
+    },
+    {
+      "user_id": 106,
+      "username": "@foxtrot",
+      "bukti_transfer": "static/bukti_transfer/bukti_106.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:50:00"
+    },
+    {
+      "user_id": 107,
+      "username": "@golf",
+      "bukti_transfer": "static/bukti_transfer/bukti_107.jpg",
+      "status_verifikasi": "ditolak",
+      "waktu_daftar": "2025-06-17T14:51:00"
+    },
+    {
+      "user_id": 108,
+      "username": "@hotel",
+      "bukti_transfer": "static/bukti_transfer/bukti_108.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:52:00"
+    },
+    {
+      "user_id": 109,
+      "username": "@india",
+      "bukti_transfer": "static/bukti_transfer/bukti_109.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:53:00"
+    },
+    {
+      "user_id": 110,
+      "username": "@juliet",
+      "bukti_transfer": "static/bukti_transfer/bukti_110.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:54:00"
+    },
+    {
+      "user_id": 111,
+      "username": "@kilo",
+      "bukti_transfer": "static/bukti_transfer/bukti_111.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:55:00"
+    },
+    {
+      "user_id": 112,
+      "username": "@lima",
+      "bukti_transfer": "static/bukti_transfer/bukti_112.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:56:00"
+    },
+    {
+      "user_id": 113,
+      "username": "@mike",
+      "bukti_transfer": "static/bukti_transfer/bukti_113.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:57:00"
+    },
+    {
+      "user_id": 114,
+      "username": "@november",
+      "bukti_transfer": "static/bukti_transfer/bukti_114.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T14:58:00"
+    },
+    {
+      "user_id": 115,
+      "username": "@oscar",
+      "bukti_transfer": "static/bukti_transfer/bukti_115.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T14:59:00"
+    },
+    {
+      "user_id": 116,
+      "username": "@papa",
+      "bukti_transfer": "static/bukti_transfer/bukti_116.jpg",
+      "status_verifikasi": "ditolak",
+      "waktu_daftar": "2025-06-17T15:00:00"
+    },
+    {
+      "user_id": 117,
+      "username": "@quebec",
+      "bukti_transfer": "static/bukti_transfer/bukti_117.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T15:01:00"
+    },
+    {
+      "user_id": 118,
+      "username": "@romeo",
+      "bukti_transfer": "static/bukti_transfer/bukti_118.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T15:02:00"
+    },
+    {
+      "user_id": 119,
+      "username": "@sierra",
+      "bukti_transfer": "static/bukti_transfer/bukti_119.jpg",
+      "status_verifikasi": "menunggu",
+      "waktu_daftar": "2025-06-17T15:03:00"
+    },
+    {
+      "user_id": 120,
+      "username": "@tango",
+      "bukti_transfer": "static/bukti_transfer/bukti_120.jpg",
+      "status_verifikasi": "terverifikasi",
+      "waktu_daftar": "2025-06-17T15:04:00"
+    }
+  ]
+}
